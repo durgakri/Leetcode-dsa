@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/durgakri/Leetcode-dsa/tree/master/0014-longest-common-prefix) |
+| [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/durgakri/Leetcode-dsa/tree/master/0014-longest-common-prefix) |
+| [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/durgakri/Leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
 |  |
@@ -20,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/durgakri/Leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 <!---LeetCode Topics End-->
