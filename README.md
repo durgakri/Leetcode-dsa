@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/durgakri/Leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/durgakri/Leetcode-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/durgakri/Leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
 |  |
@@ -26,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/durgakri/Leetcode-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
 <!---LeetCode Topics End-->
