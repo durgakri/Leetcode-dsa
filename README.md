@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/durgakri/Leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/durgakri/Leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [3797-design-spreadsheet](https://github.com/durgakri/Leetcode-dsa/tree/master/3797-design-spreadsheet) |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/durgakri/Leetcode-dsa/tree/master/3797-design-spreadsheet) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/durgakri/Leetcode-dsa/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/durgakri/Leetcode-dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
