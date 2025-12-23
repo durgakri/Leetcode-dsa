@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/durgakri/Leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/durgakri/Leetcode-dsa/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/durgakri/Leetcode-dsa/tree/master/0015-3sum) |
 | [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [3797-design-spreadsheet](https://github.com/durgakri/Leetcode-dsa/tree/master/3797-design-spreadsheet) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/durgakri/Leetcode-dsa/tree/master/0015-3sum) |
 | [2887-sort-vowels-in-a-string](https://github.com/durgakri/Leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/durgakri/Leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/durgakri/Leetcode-dsa/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
