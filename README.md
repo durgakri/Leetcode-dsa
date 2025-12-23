@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/durgakri/Leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/durgakri/Leetcode-dsa/tree/master/0015-3sum) |
 | [0485-max-consecutive-ones](https://github.com/durgakri/Leetcode-dsa/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/durgakri/Leetcode-dsa/tree/master/0645-set-mismatch) |
 | [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [1470-shuffle-the-array](https://github.com/durgakri/Leetcode-dsa/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/durgakri/Leetcode-dsa/tree/master/1929-concatenation-of-array) |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/durgakri/Leetcode-dsa/tree/master/0015-3sum) |
+| [0645-set-mismatch](https://github.com/durgakri/Leetcode-dsa/tree/master/0645-set-mismatch) |
 | [2887-sort-vowels-in-a-string](https://github.com/durgakri/Leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/durgakri/Leetcode-dsa/tree/master/0645-set-mismatch) |
 | [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/durgakri/Leetcode-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3797-design-spreadsheet](https://github.com/durgakri/Leetcode-dsa/tree/master/3797-design-spreadsheet) |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/durgakri/Leetcode-dsa/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/durgakri/Leetcode-dsa/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
