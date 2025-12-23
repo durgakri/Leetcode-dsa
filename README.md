@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/durgakri/Leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/durgakri/Leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/durgakri/Leetcode-dsa/tree/master/0015-3sum) |
+| [0485-max-consecutive-ones](https://github.com/durgakri/Leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [1470-shuffle-the-array](https://github.com/durgakri/Leetcode-dsa/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/durgakri/Leetcode-dsa/tree/master/1929-concatenation-of-array) |
