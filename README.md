@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/durgakri/Leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/durgakri/Leetcode-dsa/tree/master/0645-set-mismatch) |
 | [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/durgakri/Leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/durgakri/Leetcode-dsa/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/durgakri/Leetcode-dsa/tree/master/1929-concatenation-of-array) |
 | [3797-design-spreadsheet](https://github.com/durgakri/Leetcode-dsa/tree/master/3797-design-spreadsheet) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/durgakri/Leetcode-dsa/tree/master/0015-3sum) |
 | [0645-set-mismatch](https://github.com/durgakri/Leetcode-dsa/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/durgakri/Leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/durgakri/Leetcode-dsa/tree/master/2887-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/durgakri/Leetcode-dsa/tree/master/0645-set-mismatch) |
 | [1006-vowel-spellchecker](https://github.com/durgakri/Leetcode-dsa/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/durgakri/Leetcode-dsa/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/durgakri/Leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3797-design-spreadsheet](https://github.com/durgakri/Leetcode-dsa/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/durgakri/Leetcode-dsa/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/durgakri/Leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
